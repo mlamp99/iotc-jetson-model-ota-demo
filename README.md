@@ -8,6 +8,7 @@ This project demonstrates:
 ## 📦 Setup
 
 ```bash
+sudo apt install python3.8-venv
 python3 -m venv ai-env
 source ai-env/bin/activate
 pip install -r requirements.txt
