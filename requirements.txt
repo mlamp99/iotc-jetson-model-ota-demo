@@ -1,2 +1,3 @@
-onnxruntime
-opencv-python
+onnxruntime==1.17.1
+opencv-python==4.8.0.76
+numpy
